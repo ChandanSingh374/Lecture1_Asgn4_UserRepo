@@ -1,3 +1,3 @@
-# Lecture1_Asgn1_UserRepo
+# Lecture1_Asgn4_UserRepo
 
-1. Complete the code in Student class
+1. Complete the code in Bank Account class
